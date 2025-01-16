@@ -23,5 +23,10 @@ Dynamic Results Display :- Results are displayed immediately below the input fie
 ## 🛠️ Technologies Used :- 
 
 HTML: Provides the structure for the date input and result display.
+
 CSS: Adds styling for a modern and responsive user interface.
+
 JavaScript: Implements the age calculation logic and user interaction.
+
+
+![ZoN6hXV - Imgur](https://github.com/user-attachments/assets/64dcf8af-201f-44d4-947b-f831057efd90)
